@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=javafx.scene.Parent\ contenedor()
+comment2.params=escenario
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=void\ ComprobarCombinacion()
+comment3.text=\r\n\ M\u00E9todo\ que\ comprueba\ el\ estado\ de\ las\ combinaciones.En\ caso\ de\ que\ la\ jugada\ finalizara\ la\ variable\ booleana\ jugable\ se\ cambia\ a\ falso\r\n\ y\ se\ crea\ una\ l\u00EDnea\ en\ la\ combinaci\u00F3n\ ganadora.\r\n
+comment4.params=combinacion
+comment4.target=void\ animacionLinea(TicTacToe.Combinacion)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
